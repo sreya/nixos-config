@@ -82,8 +82,8 @@ in
   programs.git = {
     enable = true;
 
-    userName = "Kyle Carberry";
-    userEmail = "kyle@carberry.com";
+    userName = "Jon Ayesr";
+    userEmail = "jon@coder.com";
 
     aliases = {
       p = "push -u origin HEAD";

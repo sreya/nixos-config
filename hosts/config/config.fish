@@ -63,7 +63,7 @@ set PATH $PATH $HOME/bin
 set PATH $PATH $HOME/go/bin
 set PATH $PATH $HOME/.cargo/bin
 set PATH $PATH /usr/local/go/bin
-set -x NAMESPACE kyle
+set -x NAMESPACE jon
 set TERM xterm-256color
 
 # The next line updates PATH for the Google Cloud SDK.

@@ -160,7 +160,7 @@ if (flags.help) {
   Deno.exit(1);
 }
 
-const repoPath = `${Deno.env.get("HOME")}/projects/kylecarbs/nixos-config`;
+const repoPath = `${Deno.env.get("HOME")}/projects/sreya/nixos-config`;
 
 let manifestPath = flags._[0] as string;
 if (!manifestPath) {
