@@ -22,13 +22,13 @@
   # This won't work on other systems... it's hardcoded to my current M2's UUIDs.
   fileSystems."/" =
     {
-      device = "/dev/disk/by-uuid/c689a4f6-d0d1-4cad-97dc-c1753c7916bf";
+      device = "/dev/disk/by-uuid/a59b0f1c-1f2f-41fd-ae34-447df2d18909";
       fsType = "ext4";
     };
 
   fileSystems."/boot" =
     {
-      device = "/dev/disk/by-uuid/01A0-9140";
+      device = "/dev/disk/by-uuid/BE67-84B4";
       fsType = "vfat";
     };
 
